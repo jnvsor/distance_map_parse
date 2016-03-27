@@ -1,0 +1,6 @@
+[package]
+name = "distance_map_parse"
+version = "0.1.0"
+authors = ["Jonathan Vollebregt <jnvsor@gmail.com>"]
+
+[dependencies]
